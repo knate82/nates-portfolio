@@ -33,7 +33,7 @@ small {
     margin-top: 25vh;
     color: black;
     text-shadow: 2px 3px 4px grey;
-    
+
 }
 
 .scroll h4 {
@@ -63,7 +63,7 @@ small {
 }
 
 .social-icons i {
-    font-size: 60px;
+    font-size: 40px;
     display: inline-block;
     margin-top: 10px;
 }
@@ -94,9 +94,13 @@ small {
 
 #skills i {
     margin-top: 5px;
-    font-size: 175px;
+    font-size: 50px;
 }
 
 #skills .express {
-    width: 175px;
+    width: 50px;
+}
+
+.footer {
+    background-color: black;
 }
